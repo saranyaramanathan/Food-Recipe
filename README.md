@@ -16,7 +16,7 @@ Postman collection with sample requests/responses
 
 **🔗 API Endpoints**
 
-<img width="812" height="383" alt="image" src="https://github.com/user-attachments/assets/a6aef5a0-3ed3-4262-81bd-ab5a41b030d0" />
+<img width="623" height="287" alt="image" src="https://github.com/user-attachments/assets/d8f02c7e-e5a7-44e2-98d0-c59858c212d1" />
 
 
 **📃 Sample POST Body**
